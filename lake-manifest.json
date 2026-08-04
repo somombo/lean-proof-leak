@@ -1,0 +1,16 @@
+{"version": "1.2.0",
+ "packagesDir": ".lake/packages",
+ "packages":
+ [{"url": "https://github.com/somombo/time-it",
+   "type": "git",
+   "subDir": null,
+   "scope": "",
+   "rev": "17e72742c399ad661b6cbeedd9e648c1fc982f3b",
+   "name": "«time-it»",
+   "manifestFile": "lake-manifest.json",
+   "inputRev": null,
+   "inherited": false,
+   "configFile": "lakefile.toml"}],
+ "name": "«lean-proof-leak»",
+ "lakeDir": ".lake",
+ "fixedToolchain": false}

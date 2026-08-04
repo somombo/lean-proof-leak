@@ -1,0 +1,14 @@
+name = "lean-proof-leak"
+version = "0.1.0"
+defaultTargets = ["repro"]
+
+[[lean_lib]]
+name = "Repro"
+
+[[lean_exe]]
+name = "repro"
+root = "Main"
+
+[[require]]
+name = "time-it"
+git = "https://github.com/somombo/time-it"
